@@ -4,6 +4,6 @@ Markless processor for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-markless.git |
-| commit  | 1281210                                          |
+| commit  | 28550b4                                          |
 | systems | cl-markless                                      |
 |---------+--------------------------------------------------|
