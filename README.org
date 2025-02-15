@@ -2,8 +2,8 @@
 
 Markless processor for Common Lisp
 
-|---------+--------------------------------------------------------------------------------------------|
-| source  | git:https://github.com/Shirakumo/cl-markless.git                                           |
-| commit  | de4219b                                                                                    |
+|---------+--------------------------------------------------------------------------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-markless.git                                                             |
+| commit  | b7e4e2f                                                                                                      |
 | systems | cl-markless cl-markless-standalone cl-markless-latex cl-markless-markdown cl-markless-epub cl-markless-plump |
-|---------+--------------------------------------------------------------------------------------------|
+|---------+--------------------------------------------------------------------------------------------------------------|
